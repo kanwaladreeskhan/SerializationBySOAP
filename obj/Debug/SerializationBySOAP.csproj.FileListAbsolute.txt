@@ -1,0 +1,7 @@
+C:\Users\FC Technologies\source\repos\SerializationBySOAP\SerializationBySOAP\bin\Debug\SerializationBySOAP.exe.config
+C:\Users\FC Technologies\source\repos\SerializationBySOAP\SerializationBySOAP\bin\Debug\SerializationBySOAP.exe
+C:\Users\FC Technologies\source\repos\SerializationBySOAP\SerializationBySOAP\bin\Debug\SerializationBySOAP.pdb
+C:\Users\FC Technologies\source\repos\SerializationBySOAP\SerializationBySOAP\obj\Debug\SerializationBySOAP.csproj.AssemblyReference.cache
+C:\Users\FC Technologies\source\repos\SerializationBySOAP\SerializationBySOAP\obj\Debug\SerializationBySOAP.csproj.CoreCompileInputs.cache
+C:\Users\FC Technologies\source\repos\SerializationBySOAP\SerializationBySOAP\obj\Debug\SerializationBySOAP.exe
+C:\Users\FC Technologies\source\repos\SerializationBySOAP\SerializationBySOAP\obj\Debug\SerializationBySOAP.pdb
